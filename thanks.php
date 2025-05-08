@@ -7,7 +7,7 @@
  ('$name','$email')");
  if($q)
  {
- echo "Record inserted successfully";
+ echo "Record inserted successfully"
  }
  else
  {
